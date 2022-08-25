@@ -1,0 +1,27 @@
+section{
+  border: 1px solid black;
+  margin: auto;
+  width: 140px;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: 3px 3px 3px 3px #888888;
+  background-color: #888888;
+}
+#result{
+  width: 140px;
+  height: 20px;
+  padding-top: 15px;
+}
+.operation{
+  border-top: 1px solid black;
+  width: 140px;
+}
+#delete{
+    color: white;
+    background-color: brown;
+    float: right;
+}
+#equal{
+    color: white;
+    background-color: green;
+}
